@@ -11,15 +11,6 @@
 - 🏡'Lives in **Mawanella Sri Lanka**
 - 🌐 Personal website [link](https://dilini-liyanage-info.netlify.app/)
 
-<br>
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
-<p align="left">
-
- <div align="left"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/diliniliyanage">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-      </div>
-</p>
 
 <div id="user-content-toc">
   <ul align="left">
