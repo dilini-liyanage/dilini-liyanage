@@ -20,6 +20,6 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,figma,html,java,js,materialui,mysql,nodejs,postman,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,figma,html,java,js,ts,materialui,mysql,nodejs,postman,react,tailwind,vscode&perline=14" />
   </a>
 </p>
