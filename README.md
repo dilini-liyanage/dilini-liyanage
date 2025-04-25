@@ -9,7 +9,7 @@
 - 👩‍💻 A friendly and passionate individual who finds joy in coding. 
 - 🎓 Reading for BSc (Hons) in Information Technology at Faculty of Information Technolgy, University of Moratuwa.
 - 🏡 Lives in **Mawanella Sri Lanka**
-- 🌐 Personal website [link](https://dilini-liyanage-info.netlify.app/)
+- 🌐 Personal website [link](https://diliniliyanage.me/)
 
 
 <div id="user-content-toc">
